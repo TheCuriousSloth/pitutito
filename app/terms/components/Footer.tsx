@@ -8,7 +8,7 @@ const Footer: React.FC = () => (
       <p className="text-sm text-gray-600 text-center">
         Para consultas públicas sobre el proyecto, puedes unirte al grupo de WhatsApp{' '}
         <a 
-          href="https://chat.whatsapp.com/K9ez4VsZ8O51X8Qsk3MxzV" 
+          href="https://chat.whatsapp.com/IuTR9RBKwEe5YvL3TG4kDq" 
           target="_blank" 
           rel="noopener noreferrer"
           className="text-green-600 hover:text-green-700 inline-flex items-center"

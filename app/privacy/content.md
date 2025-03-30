@@ -1,89 +1,115 @@
 # Política de Privacidad – Referenciales.cl
 
-## 1. Introducción
+## 1. Introducción y Aceptación de los Términos
 
-**Referenciales.cl** es una aplicación web de código abierto diseñada para proporcionar una base de datos colaborativa relacionada con transacciones de suelo en Chile. Basada en información recolectada por personas voluntarias, esta plataforma fomenta la transparencia y colaboración, permitiendo a desarrolladores y usuarios contribuir al desarrollo del proyecto.
+**Pitutito.cl** es una plataforma en línea diseñada para conectar a personas que buscan ayuda con tareas y servicios informales (en adelante, "Clientes" o "Solicitantes") con personas dispuestas a ofrecer dichos servicios (en adelante, "Proveedores" o "Pituteros"). Algunos ejemplos de estos servicios incluyen, pero no se limitan a, cuidado de plantas, cuidado de mascotas, pequeñas reparaciones, ayuda con mudanzas, etc. (en adelante, "Pitutos" o "Servicios").
 
-> **Importante:** Referenciales.cl es una iniciativa sin fines de lucro que busca contribuir al acceso libre de información. No garantizamos la exactitud, completitud o actualidad de los datos, ni nos responsabilizamos por el uso que los usuarios hagan de esta información.
+Al registrarte, acceder o utilizar la Plataforma de cualquier manera, aceptas cumplir y estar legalmente obligado/a por estos Términos y Condiciones de Servicio ("Términos"). Si no estás de acuerdo con estos Términos, no tienes derecho a obtener información o continuar utilizando la Plataforma.
+
+> **Importante:** Pitutito.cl actúa únicamente como un intermediario tecnológico que facilita la conexión entre Clientes y Pituteros. No empleamos a los Pituteros ni somos parte del acuerdo de servicio que se establece directamente entre los usuarios. No supervisamos, dirigimos ni controlamos los Servicios prestados, ni garantizamos la calidad, seguridad, legalidad o idoneidad de los Pitutos ofrecidos o realizados, ni la veracidad de la información proporcionada por los usuarios.
 
 ### Nuestro Objetivo
-En Referenciales.cl, buscamos generar un sistema de acceso de información sobre transacciones de suelo en Chile para peritos tasadores.
+Facilitar un espacio de encuentro confiable y eficiente para que personas en Chile puedan encontrar u ofrecer ayuda para tareas y servicios informales, fomentando la economía local y la colaboración comunitaria.
 
 ---
 
-## 2. Autenticación y Uso de Servicios de Terceros
+## 2. Información que Recopilamos
+Para operar Pitutito.cl y facilitar la conexión entre Clientes y Pituteros, recopilamos diferentes tipos de información:
 
-**Sistema de Autenticación:** Referenciales.cl utiliza Google como único autenticador.
+### 2.1. Información que tú nos Proporcionas Directamente:
+Información de Registro y Perfil: Cuando creas una cuenta, recopilamos información como tu nombre, dirección de correo electrónico, [Opcional: número de teléfono], contraseña (si no usas un proveedor externo como Google). Si eres Pitutero, puedes proporcionar información adicional como foto de perfil, una descripción sobre ti, tus habilidades, y las zonas donde ofreces servicios.
+Descripciones de Pitutos y Ofertas de Servicios: Recopilamos los detalles que proporcionas al publicar una solicitud de Pituto (si eres Cliente) o al describir los Servicios que ofreces (si eres Pitutero).
+Comunicaciones: Recopilamos los mensajes que intercambias con otros usuarios a través de las herramientas de comunicación de la Plataforma.
+Calificaciones y Comentarios: Recopilamos las calificaciones y comentarios que dejas sobre otros usuarios o que otros usuarios dejan sobre ti.
+Información de Pago [Si aplica]: Si implementamos pagos a través de la plataforma, podríamos recopilar información necesaria para procesar dichos pagos (esto a menudo lo maneja un proveedor externo seguro, y te informaríamos específicamente).
 
-> **Nota:** Los usuarios deben iniciar sesión con su cuenta de Google, delegando la gestión de seguridad y datos a Google según sus términos y políticas.
+### 2.2. Información Recibida de Terceros:
+Autenticación vía Terceros (Ej: Google): Si eliges registrarte o iniciar sesión usando un servicio de terceros como Google, recibiremos cierta información de tu perfil de ese servicio (generalmente nombre, correo electrónico, identificador y foto de perfil pública), según lo autorices durante el proceso de conexión. No recibimos ni almacenamos tu contraseña de Google.
 
-🔒 **Seguridad:** Referenciales.cl no almacena contraseñas y sigue las mejores prácticas de seguridad.
+### 2.3. Información Recopilada Automáticamente:
+Datos de Uso y Registro: Cuando utilizas la Plataforma, registramos automáticamente información como tu dirección IP, tipo de navegador, sistema operativo, páginas visitadas, fechas y horas de acceso, y otros datos de diagnóstico y uso.
+Información del Dispositivo: Podemos recopilar información sobre el dispositivo que utilizas para acceder a la Plataforma (ej: modelo, identificadores únicos).
+Información de Ubicación [Con tu consentimiento]: Si habilitas los servicios de ubicación en tu dispositivo y nos das permiso, podemos recopilar información sobre tu ubicación aproximada o precisa para ayudarte a encontrar Pitutos o Pituteros cercanos. Puedes controlar esto a través de la configuración de tu dispositivo o navegador.
+Cookies y Tecnologías Similares: Utilizamos cookies y tecnologías similares para operar y mejorar la Plataforma, como se detalla en la Sección 8 ("Cookies").
 
----
+## 3. Cómo Utilizamos tu Información
+Utilizamos la información que recopilamos para los siguientes propósitos:
 
-## 3. Marco Legal y Jurisdicción
+Proporcionar y Gestionar la Plataforma: Operar tu cuenta, mostrar perfiles, publicar y buscar Pitutos, facilitar la conexión y comunicación entre Clientes y Pituteros.   
+Mejorar y Personalizar la Experiencia: Entender cómo se usa la Plataforma para mejorarla, desarrollar nuevas funciones y personalizar el contenido que ves (ej: mostrarte Pitutos relevantes en tu área).
+Seguridad y Prevención de Fraude: Verificar cuentas, monitorear actividades sospechosas, investigar posibles violaciones de nuestros Términos de Servicio y proteger la seguridad de nuestros usuarios y la Plataforma.
+Comunicación: Enviarte notificaciones relacionadas con el servicio (ej: nuevos mensajes, confirmaciones de acuerdo, actualizaciones de la plataforma), responder a tus consultas y proporcionar soporte al cliente.
+Marketing [Con tu consentimiento]: Ocasionalmente, podríamos enviarte información sobre promociones o nuevas funciones, pero solo si has dado tu consentimiento explícito para recibir dichas comunicaciones. Podrás optar por no recibirlas en cualquier momento.
+Cumplimiento Legal: Cumplir con las leyes, regulaciones y procesos legales aplicables.
 
-El acceso y uso del sitio web Referenciales.cl se rige por las leyes de la República de Chile, incluyendo, pero no limitado a, las siguientes normativas:
+## 4. Cómo Compartimos tu Información
+Tu privacidad es importante, pero la naturaleza de Pitutito.cl requiere compartir cierta información para que funcione:
 
-* **<a href="https://www.bcn.cl/leychile/navegar?idNorma=141599" target="_blank" rel="noopener noreferrer">Ley N° 19.628</a>** - Protección de la Vida Privada (1999).
-* **<a href="https://www.bcn.cl/leychile/navegar?idNorma=61438" target="_blank" rel="noopener noreferrer">Ley N° 19.496</a>** - Establece Normas sobre Protección de los Derechos de los Consumidores (Última versión: 20-ABR-2021).
-* **<a href="https://www.bcn.cl/leychile/navegar?idNorma=276363" target="_blank" rel="noopener noreferrer">Ley N° 20.285</a>** - Sobre Acceso a la Información Pública (Última modificación: 05-ENE-2016 - Ley 20880).
-* **<a href="https://www.bcn.cl/leychile/navegar?idNorma=1119730" target="_blank" rel="noopener noreferrer">Ley N° 21.096</a>** - Consagración Constitucional del Derecho a la Protección de Datos Personales (2018).
-* **<a href="https://www.bcn.cl/leychile/navegar?idNorma=1209272" target="_blank" rel="noopener noreferrer">Ley N° 21.719</a>** - Nueva Ley que regula la Protección y Tratamiento de Datos Personales y crea la Agencia de Protección de Datos Personales (vigencia: diciembre 2026).
+Entre Usuarios:
+El perfil público de un Pitutero (nombre, foto, descripción, calificaciones, Servicios ofrecidos) es visible para los Clientes.
+La descripción de un Pituto publicado por un Cliente (detalles de la tarea, ubicación general si es relevante) es visible para los Pituteros.
+Una vez que un Cliente y un Pitutero acuerdan un Servicio, podemos facilitar el intercambio de información de contacto necesaria (como nombre completo, [Opcional: teléfono o dirección más específica si es necesaria para el servicio y consentida]) para coordinar la realización del Pituto. Sé claro sobre qué información exacta se comparte y en qué momento.
+Las calificaciones y comentarios que dejas sobre otros usuarios son visibles públicamente en sus perfiles (o de forma anónima si así se configura).
+Proveedores de Servicios Externos: Compartimos información con terceros que nos ayudan a operar, mantener y mejorar la Plataforma. Estos incluyen proveedores de hosting (ej: Vercel, Neon), análisis de datos (ej: Vercel Analytics), herramientas de soporte al cliente, [Si aplica: procesadores de pago]. Estos proveedores solo tienen acceso a la información necesaria para realizar sus tareas y están obligados contractualmente a protegerla y usarla únicamente para los fines designados.
+Requisitos Legales: Podemos divulgar tu información si creemos de buena fe que es necesario para cumplir con una obligación legal, proteger nuestros derechos o seguridad, investigar fraudes o responder a una solicitud gubernamental válida.   
+Transferencias Comerciales: En caso de fusión, adquisición, reorganización o venta de activos, tu información podría ser transferida como parte de esa transacción. Te notificaríamos de tal evento y de las opciones que pudieras tener respecto a tu información.
+Datos Agregados o Anonimizados: Podemos compartir información agregada o anonimizada (que no te identifica directamente) con fines de análisis, investigación o informes.
 
-En caso de cualquier controversia relacionada con el uso de la plataforma, esta será sometida a la jurisdicción de los tribunales de justicia de la República de Chile.
+## 5. Seguridad de los Datos
+Implementamos medidas de seguridad técnicas y organizativas razonables para proteger tu información personal contra el acceso no autorizado, la alteración, la divulgación o la destrucción. Estas medidas incluyen [Ejemplos generales: controles de acceso, encriptación de datos en tránsito y reposo donde sea apropiado]. Sin embargo, ningún sistema de transmisión o almacenamiento electrónico es 100% seguro, por lo que no podemos garantizar una seguridad absoluta.   
 
----
+## 6. Almacenamiento y Retención de Datos
+### 6.1. Almacenamiento
+Tu información personal se almacena en servidores seguros, que pueden estar ubicados fuera de Chile [Si aplica, sé transparente sobre esto y cumple con las normas de transferencia internacional si es necesario]. Utilizamos proveedores de servicios de confianza (como Vercel y Neon) para el almacenamiento de datos.
 
-## 4. Derechos y Protección de Datos
+### 6.2. Retención
+Conservaremos tu información personal solo durante el tiempo que sea necesario para cumplir con los fines para los que fue recopilada, incluyendo la prestación de los servicios de la Plataforma, el cumplimiento de nuestras obligaciones legales (ej: registros fiscales o de transacciones), la resolución de disputas y la aplicación de nuestros acuerdos. Cuando ya no necesitemos tu información personal para estos fines, la eliminaremos o la anonimizaremos de forma segura. Los períodos de retención específicos pueden variar según el tipo de información y los requisitos legales. Para más detalles sobre la eliminación de cuentas, consulta nuestros Términos de Servicio.   
 
-Referenciales.cl se compromete a cumplir con Ley de Protección de la Vida Privada, que regula el tratamiento de datos personales en Chile, asegurando que todos los datos personales recolectados y procesados en la plataforma sean tratados de manera segura y conforme a la ley. Esto incluye, pero no se limita a, los siguientes aspectos:
+## 7. Tus Derechos de Protección de Datos
+De acuerdo con la legislación chilena (incluyendo la Ley N° 19.628 y sus modificaciones), tienes derechos sobre tus datos personales:
 
-### Derechos Fundamentales
+✅ Derecho de Acceso: Puedes solicitar información sobre los datos personales que tenemos sobre ti y una copia de los mismos.
 
-* ✅ **Derecho de Acceso:** 
-  - Los usuarios tienen el derecho a acceder a sus datos personales almacenados en la plataforma.
-* ✅ **Derecho de Rectificación:** 
-  - Los usuarios pueden solicitar la corrección de sus datos personales si estos son inexactos o están desactualizados.
-* ✅ **Derecho de Cancelación:** 
-  - Los usuarios tienen el derecho a solicitar la eliminación de sus datos personales cuando estos ya no sean necesarios para los fines para los que fueron recolectados, o cuando el usuario retire su consentimiento.
-* ✅ **Derecho de Oposición:** 
-  - En casos específicos, los usuarios pueden oponerse al tratamiento de sus datos personales.
+✅ Derecho de Rectificación: Puedes solicitar la corrección de tus datos personales si son inexactos, incompletos o están desactualizados. Puedes actualizar gran parte de tu información directamente en la configuración de tu perfil.
 
-### 📞 Proceso de Reclamación
-Para ejercer estos derechos o realizar consultas privadas:
-> **WhatsApp:** [`+56 9 3176 9472`](https://wa.me/56931769472)
+✅ Derecho de Cancelación (Supresión o Eliminación): Puedes solicitar la eliminación de tus datos personales cuando ya no sean necesarios para los fines originales, retires tu consentimiento (si aplica), o consideres que han sido tratados ilícitamente. Esto está sujeto a nuestras obligaciones legales de retención.
 
-### 🛡️ Medidas de Seguridad
-Implementamos protecciones contra:
-* 🔒 Acceso no autorizado.
-* 🔒 Divulgación indebida.
-* 🔒 Alteración de datos.
-* 🔒 Destrucción de información.
+✅ Derecho de Oposición: Puedes oponerte al tratamiento de tus datos personales en ciertas circunstancias, por ejemplo, para fines de marketing directo.
+Cómo Ejercer tus Derechos
 
----
+Para ejercer estos derechos o si tienes preguntas sobre tu privacidad, por favor contáctanos a través de:
 
-## 5. Almacenamiento de Datos
+Correo Electrónico: [Tu dirección de correo electrónico para privacidad, ej: [dirección de correo electrónico eliminada]]
 
-**Base de Datos:** Los referenciales se almacenan en una base de datos PostgreSQL, un sistema de gestión de bases de datos relacional, conocido por su estabilidad, robustez y soporte para características avanzadas.
+Necesitaremos verificar tu identidad antes de procesar tu solicitud. Haremos lo posible por responder en un plazo razonable y de acuerdo con la ley aplicable.
 
----
+## 8. Cookies y Tecnologías Similares
+Pitutito.cl utiliza cookies y tecnologías similares (como almacenamiento local) para mejorar tu experiencia en la Plataforma. Las cookies son pequeños archivos de texto almacenados en tu dispositivo.
 
----
+Tipos de Cookies que Utilizamos:
+Cookies Esenciales/Necesarias: Imprescindibles para el funcionamiento básico de la Plataforma (ej: mantener tu sesión iniciada, seguridad).
+Cookies de Funcionalidad: Permiten recordar tus preferencias (ej: idioma) y ofrecer funciones mejoradas.
+Cookies de Rendimiento/Análisis: Nos ayudan a entender cómo interactúas con la Plataforma, qué páginas son más populares, y a detectar problemas. Utilizamos herramientas como [Menciona si usas Vercel Analytics, Google Analytics u otro]. La información recopilada suele ser agregada.
+Nota: Actualmente, no utilizamos cookies con fines de publicidad dirigida de terceros en nuestra Plataforma.
 
-## 6. Cookies
+Gestión de Cookies
+Puedes gestionar o deshabilitar las cookies a través de la configuración de tu navegador web. Sin embargo, ten en cuenta que deshabilitar ciertas cookies (especialmente las esenciales) puede afectar negativamente la funcionalidad y tu experiencia en Pitutito.cl.
 
-Referenciales.cl utiliza cookies para mejorar la experiencia del usuario en la plataforma. Las cookies son pequeños archivos de texto que se almacenan en el dispositivo del usuario y permiten recordar sus preferencias y actividades anteriores en el sitio web.
+## 9. Servicios y Enlaces de Terceros
+La Plataforma puede contener enlaces a sitios web o servicios de terceros que no son operados por nosotros (ej: enlaces en perfiles de usuario, procesadores de pago externos). No somos responsables de las prácticas de privacidad de dichos terceros. Te recomendamos leer sus políticas de privacidad.
 
-### Tipos de Cookies Utilizadas ###
-* **Cookies Esenciales:** Necesarias para el funcionamiento básico del sitio web.
-* **Cookies de Rendimiento:** Utilizadas para recopilar información sobre cómo los usuarios interactúan con el sitio web.
-* **Cookies de Funcionalidad:** Permiten recordar las preferencias del usuario para proporcionar una experiencia personalizada.
+## 10. Privacidad de Menores de Edad
+La Plataforma Pitutito.cl no está dirigida a personas menores de 18 años. No recopilamos intencionadamente información personal de menores de edad. Si tienes conocimiento de que un menor nos ha proporcionado información personal sin el consentimiento parental, por favor contáctanos para que podamos tomar las medidas necesarias.
 
-> **Nota:** No utilizamos cookies con fines publicitarios.
+## 11. Marco Legal y Jurisdicción
+Esta Política de Privacidad y el tratamiento de tus datos personales se rigen por las leyes de la República de Chile, en particular por la Ley N° 19.628 sobre Protección de la Vida Privada y las normativas que la complementen o modifiquen, incluyendo los principios de la futura Ley N° 21.719. Cualquier controversia se someterá a la jurisdicción de los tribunales de [Especificar ciudad o jurisdicción, ej: Valdivia o Santiago], Chile.
 
-### Gestión de Cookies ###
-Los usuarios pueden gestionar las cookies a través de la configuración de su navegador. Sin embargo, deshabilitar las cookies puede afectar la funcionalidad del sitio web.
+(Puedes mantener aquí la lista de leyes específicas si lo deseas, o referenciar la Ley 19.628 y sus modificaciones de forma más general).
 
----
----
+## 12. Cambios a esta Política de Privacidad
+Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento. Si realizamos cambios, actualizaremos la "Fecha de última actualización" al principio de esta política y te notificaremos publicando la versión actualizada en la Plataforma o por otros medios si el cambio es significativo. Te recomendamos revisar esta política periódicamente.   
+
+## 13. Contacto
+Si tienes alguna pregunta, comentario o solicitud relacionada con esta Política de Privacidad o tus datos personales, por favor contáctanos en:
+
+Correo Electrónico: [Tu dirección de correo electrónico para privacidad, ej: [dirección de correo electrónico eliminada]]
