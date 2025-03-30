@@ -1,4 +1,4 @@
-# Términos de Servicio – Referenciales.cl
+# Términos de Servicio – Pitutito.cl
 
 ## 1. Introducción y Aceptación de los Términos
 

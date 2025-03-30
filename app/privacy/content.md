@@ -1,4 +1,4 @@
-# Política de Privacidad – Referenciales.cl
+# Política de Privacidad – Pitutito.cl
 
 ## 1. Introducción y Aceptación de los Términos
 
