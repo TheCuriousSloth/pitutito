@@ -12,7 +12,7 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'referenciales.cl',
+        hostname: 'pitutito.cl',
       }
     ],
   },
@@ -25,7 +25,7 @@ const nextConfig = {
   experimental: {
     optimizeCss: true,
     // Previene errores de hidratación
-    scrollRestoration: false, // Cambia a false para probar
+    scrollRestoration: false, 
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
@@ -84,17 +84,17 @@ const nextConfig = {
             { key: 'Content-Security-Policy', value: cspString },
             { key: 'X-Content-Type-Options', value: 'nosniff' },
             { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
-            { key: 'Vary', value: 'Accept' }, // Mejora compatibilidad con respuestas dinámicas
+            { key: 'Vary', value: 'Accept' }, 
           ],
         },
         {
           source: '/dashboard/referenciales',
           headers: [
-            { key: 'Cache-Control', value: 'no-store, no-cache, must-revalidate' }, // Evita caché en la paginación
+            { key: 'Cache-Control', value: 'no-store, no-cache, must-revalidate' }, 
           ],
         },
         {
-          source: '/_next/static/:path*', // Recursos estáticos
+          source: '/_next/static/:path*', 
           headers: [
             { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }, // Cachea recursos estáticos por un año
           ],

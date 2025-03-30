@@ -8,24 +8,24 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Dashboard | @referenciales.cl',
-    default: 'referenciales.cl',
+    template: '%s | Dashboard | @pitutito.cl',
+    default: 'pitutito.cl',
   },
   description: 'Base de datos colaborativa.',
   metadataBase: new URL('https://next14-postgres.vercel.app/'),
-  authors: [{ name: 'referenciales.cl', url: 'https://www.referenciales.cl/' }],
-  keywords: ['Next.js 14', 'referenciales.cl', 'Dashboard', 'nextjs.org/learn', 'Server Actions'],
+  authors: [{ name: 'pitutito.cl', url: 'https://www.pitutito.cl/' }],
+  keywords: ['Next.js 15', 'pitutito.cl', 'Dashboard', 'nextjs.org/learn', 'Server Actions'],
   openGraph: {
-    title: 'referenciales.cl Dashboard',
-    description: 'Base de datos colaborativa.',
+    title: 'pitutito.cl Dashboard',
+    description: 'Búsqueda de Empleo.',
     url: 'https://next14-postgres.vercel.app/',
     type: 'website',
   },
   twitter: {
-    site: '@referenciales.cl',
+    site: '@pitutito.cl',
     description: 'Base de datos colaborativa.',
-    title: 'referenciales.cl Dashboard',
-    creator: '@referenciales.cl',
+    title: 'pitutito.cl Dashboard',
+    creator: '@pitutito.cl',
   },
 };
 
