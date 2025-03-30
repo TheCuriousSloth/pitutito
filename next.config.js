@@ -24,8 +24,7 @@ const nextConfig = {
   },
   experimental: {
     optimizeCss: true,
-    // Previene errores de hidratación
-    scrollRestoration: false, 
+    scrollRestoration: false,
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
@@ -40,7 +39,9 @@ const nextConfig = {
       "https://va.vercel-scripts.com",
       "https://vitals.vercel-insights.com",
       "https://*.openstreetmap.org",
-      "https://accounts.google.com"
+      "https://accounts.google.com",
+      "https://authjs.dev",      
+      "https://pitutito.cl"
     ];
 
     const cspDirectives = {
@@ -57,7 +58,7 @@ const nextConfig = {
         "data:",
         "blob:",
         "https://*.googleusercontent.com",
-        "https://authjs.dev",
+        "https://pitutito.cl",
         "https://*.openstreetmap.org",
         "https://*.tile.openstreetmap.org",
         ...baseDomains
@@ -67,6 +68,7 @@ const nextConfig = {
         "'self'",
         "https://*.tile.openstreetmap.org",
         "https://*.openstreetmap.org",
+        "https://api.openai.com",
         ...baseDomains,
         ...(isDev ? ["*"] : [])
       ],
@@ -77,30 +79,30 @@ const nextConfig = {
       .map(([key, values]) => `${key} ${Array.from(new Set(values)).join(' ')}`)
       .join('; ');
 
-      return [
-        {
-          source: '/:path*',
-          headers: [
-            { key: 'Content-Security-Policy', value: cspString },
-            { key: 'X-Content-Type-Options', value: 'nosniff' },
-            { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
-            { key: 'Vary', value: 'Accept' }, 
-          ],
-        },
-        {
-          source: '/dashboard/referenciales',
-          headers: [
-            { key: 'Cache-Control', value: 'no-store, no-cache, must-revalidate' }, 
-          ],
-        },
-        {
-          source: '/_next/static/:path*', 
-          headers: [
-            { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }, // Cachea recursos estáticos por un año
-          ],
-        },
-      ];
-    },
-  };
+    return [
+      {
+        source: '/:path*',
+        headers: [
+          { key: 'Content-Security-Policy', value: cspString },
+          { key: 'X-Content-Type-Options', value: 'nosniff' },
+          { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
+          { key: 'Vary', value: 'Accept' }, 
+        ],
+      },
+      {
+        source: '/dashboard/:path*',
+        headers: [
+          { key: 'Cache-Control', value: 'no-store, no-cache, must-revalidate' }, 
+        ],
+      },
+      {
+        source: '/_next/static/:path*', 
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+        ],
+      },
+    ];
+  },
+};
 
 module.exports = nextConfig;
